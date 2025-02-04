@@ -71,3 +71,9 @@ For detailed instructions on creating and running the app, refer to the streamli
 Clone this repository.
 Follow the instructions in the scraping_readme.md to scrape data from IMDb.
 After scraping, run the streamlit_readme.md for instructions on setting up and running the Streamlit app.
+
+## License
+This project is licensed under the MIT License.
+
+## Author
+[Santhan Vasudevan](https://github.com/santhanvasudevan)
