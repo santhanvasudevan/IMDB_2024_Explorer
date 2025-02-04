@@ -58,7 +58,10 @@ pip install streamlit pandas matplotlib seaborn squarify sqlite3
   - Heatmap of IMDb ratings by genre
 
 ## Screenshots
-
+- **Filters applied condition**
+![Filtered Movies Table](Screenshots/filters_applied.png)
+- **Without filters condition**
+![Without Filters](Screenshots/filters_not_applied.png)
 
 ## License
 This project is open-source under the MIT License.
