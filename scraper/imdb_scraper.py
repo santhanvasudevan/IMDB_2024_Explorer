@@ -11,9 +11,8 @@ import pandas as pd
 import time
 
 # List of genres to scrape
-genres_list = ["fantasy", "horror", "mystery",
-              "romance", "sci-fi", "sport",
-              "thriller"]  # Add more genres as needed
+genres_list = ["action", "adventure", "adventure", "biography", "comedy", "crime", "fantasy", "horror", "mystery", "romance", "sci-fi", "sport", "thriller"]
+
 
 # Set up Edge WebDriver
 options = webdriver.EdgeOptions()
