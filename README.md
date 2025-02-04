@@ -7,7 +7,7 @@ This repository contains two main functionalities:
 
 ## Project Overview
 
-**Step 1:** Scraping IMDb Data and Saving as CSV
+# Step 1: Scraping IMDb Data and Saving as CSV
 The scraper collects data about movies from IMDb, based on a list of predefined genres. It uses the Selenium web scraping library and stores the data in CSV format, which includes columns like Title, Runtime, Genre, IMDb Rating, and Vote Counts. 
 
 - The genres scraped include:
@@ -64,6 +64,13 @@ Run the Streamlit app using
   streamlit run IMDBExplorerapp.py
   ```
 For detailed instructions on creating and running the app, refer to the streamlit_readme.md.
+
+## Screenshots
+- **Filters applied condition**
+![Filtered Movies Table](Screenshots/filters_applied.png)
+- **Without filters condition**
+![Without Filters](Screenshots/filters_not_applied.png)
+
 
 ## Getting Started
 ### To run the entire project:
