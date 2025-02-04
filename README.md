@@ -11,13 +11,19 @@ This repository contains two main functionalities:
 The scraper collects data about movies from IMDb, based on a list of predefined genres. It uses the Selenium web scraping library and stores the data in CSV format, which includes columns like Title, Runtime, Genre, IMDb Rating, and Vote Counts. 
 
 - The genres scraped include:
-   - Fantasy
-   - Horror
-   - Mystery
-   - Romance
-   - Sci-Fi
-   - Sport
-   - Thriller
+  - Action
+  - adventure
+  - Animation
+  - Biography
+  - Comedy
+  - Crime
+  - Fantasy
+  - Horror
+  - Mystery
+  - Romance
+  - Sci-Fi
+  - Sport
+  - Thriller
 
 ## Requirements:
 
@@ -55,7 +61,7 @@ Shows genre distribution, average duration by genre, and voting trends
 Install the required libraries using pip install (all given requirements).
 Run the Streamlit app using 
   ```sh
-  streamlit run app.py
+  streamlit run IMDBExplorerapp.py
   ```
 For detailed instructions on creating and running the app, refer to the streamlit_readme.md.
 
